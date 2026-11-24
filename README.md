@@ -15,7 +15,7 @@ OpenAI Vision, Azure TTS, Raspberry Pi, Action Server
 
 [![AI-Powered TonyPi: Three AI Engines Onboard](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-4-ai-powered-tonypi-three-ai-engines-onboard.jpg)](https://automatrixlab.com/projects/project-4-ai-powered-tonypi-three-ai-engines-onboard/)
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/4.mp4
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/4-20261120.mp4
 
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-4-ai-powered-tonypi-three-ai-engines-onboard/
 
